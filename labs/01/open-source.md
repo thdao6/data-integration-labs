@@ -17,5 +17,8 @@
    `Gordon and Betty MOORE Foundation`  
    `Alfred P.Sloan Foundation`  
    `Chan Zuckerberg Initiative`  
-   `TIDELIFT`  
-   
+   `TIDELIFT`
+
+6.  Lastest release? How many issues and pull requests are open?   
+
+7. what is 
