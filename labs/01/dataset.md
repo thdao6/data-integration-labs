@@ -1,10 +1,11 @@
-|             |   |   |   |   |
-|-------------|---|---|---|---|
-| Title       |   |   |   |   |
-| Publisher   |   |   |   |   |
-| Link        |   |   |   |   |
-| Format      |   |   |   |   |
-| Size        |   |   |   |   |
-| Coverage    |   |   |   |   |
-| Last update |   |   |   |   |
-| License     |   |   |   |   |
+| Title            | Datenbanken Arbeitslosenstatistik                                                                                                                                                                                                                                                                                           |   |   |   |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| Publisher        | Statistik der Bundesagentur für Arbeit                                                                                                                                                                                                                                                                                      |   |   |   |
+| Link             | https://statistik-dr.arbeitsagentur.de/bifrontend/bids-api/pc/v1/cubeFetch/xlsx/BF7C572942B5DF015E5C33AB17924A6984AFDE2849642705A1644A88CE88CC2C?m=190C4F094243A148BAE34DBE9BF23FF0&r=016492AB43A717AC44FB39BFD9763A82\|0AAC872349A875DE70836BAA7C2BE8AD\|E6168BD44095ED48061FFCA37EE1479F&re=x\|1\|1010&rs=ID\|ID\|BA_SCHL |   |   |   |
+| Format           | xlsx, json, csv                                                                                                                                                                                                                                                                                                             |   |   |   |
+| Size             |                                                                                                                                                                                                                                                                                                                             |   |   |   |
+| Coverage         | user defined, maxiumum coverage from september 2015 to september 2026                                                                                                                                                                                                                                                       |   |   |   |
+| Update frequency | monthly                                                                                                                                                                                                                                                                                                                     |   |   |   |
+| License          |                                                                                                                                                                                                                                                                                                                             |   |   |   |
+
+API link : <https://statistik-dr.arbeitsagentur.de/bifrontend/bids-api/pc/v1/cubeFetch/xlsx/BF7C572942B5DF015E5C33AB17924A6984AFDE2849642705A1644A88CE88CC2C?m=190C4F094243A148BAE34DBE9BF23FF0&r=016492AB43A717AC44FB39BFD9763A82|0AAC872349A875DE70836BAA7C2BE8AD|E6168BD44095ED48061FFCA37EE1479F&re=x|1|1010&rs=ID|ID|BA_SCHL>
