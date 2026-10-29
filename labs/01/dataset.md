@@ -1,13 +1,13 @@
-|                  |                                                                                                                            |   |   |   |
-|------------------|----------------------------------------------------------------------------------------------------------------------------|---|---|---|
-| Title            | Datenbanken Arbeitslosenstatistik                                                                                          |   |   |   |
-| Publisher        | Statistik der Bundesagentur für Arbeit                                                                                     |   |   |   |
-| Link             | https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Datenbanken/Datenbanken-AST-Nav.html |   |   |   |
-| Format           | xlsx, json, csv                                                                                                            |   |   |   |
-| Size             | 31 KB, 553 rows, 7 columns                                                                                                 |   |   |   |
-| Coverage         | user defined, maxiumum coverage from september 2015 to september 2026                                                      |   |   |   |
-| Update frequency | monthly                                                                                                                    |   |   |   |
-| License          | no clear license found                                                                                                     |   |   |   |
+|                  |                                                                                                                            |
+|------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Title            | Datenbanken Arbeitslosenstatistik                                                                                          |
+| Publisher        | Statistik der Bundesagentur für Arbeit                                                                                     |
+| Link             | https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Datenbanken/Datenbanken-AST-Nav.html |
+| Format           | xlsx, json, csv                                                                                                            |
+| Size             | 31 KB, 553 rows, 7 columns                                                                                                 |
+| Coverage         | user defined, maxiumum coverage from september 2015 to september 2026                                                      |
+| Update frequency | monthly                                                                                                                    |
+| License          | no clear license found                                                                                                     |
 
 
 2. the dataset fulfills all 5 conditions
