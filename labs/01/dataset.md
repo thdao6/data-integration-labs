@@ -1,4 +1,4 @@
-|                  |                                                                                                                            |
+|                  |      Information                                                                                                                      |
 |------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Title            | Datenbanken Arbeitslosenstatistik                                                                                          |
 | Publisher        | Statistik der Bundesagentur für Arbeit                                                                                     |
@@ -9,21 +9,24 @@
 | Update frequency | monthly                                                                                                                    |
 | License          | Terms of use of the Bundesagentur für Arbeit                                                                                                      |
 
-Parameter used: 
-
+Parameter used:  
+* Berichtsmonat: `September 2025` to `January 2021`
+* Alterklassen (grob): `unter 25 Jahre`
+* Länder: `Nordrhein-Westfalen`
+* Geschlect: `Männer`,`Frauen`
+* Berufsausbildung: `Ohne abgeschlossene Berufsausbildung`, `Betriebliche/schulische Ausbildung`, `Akademische Ausbildung`,`Keine Angabe`
 2. the dataset fulfills all 5 conditions
-3. Maximum: 35420
-   Minimum: 140
-   Mean: 2160
-   Empty cells: 0
-   Tool used: Excel
-4. `Berichtsmonat`: describes the timeline (example: `August 2024`)
-   `Geschlecht`: describes the gender (example: `Male`)
-   `Berufsausbildung`: describes the highest education degree (example: `Akademische Ausbildung`)
-   `Bestand Arbeitslose`: dictates how many unemployments (example: `570`)
-   publisher does not document its column.
-5. The dataset is provided by the Bundesagentur für Arbeit.
-
+3. Maximum: 35420  
+   Minimum: 140  
+   Mean: 2160  
+   Empty cells: 0  
+   Tool used: Excel  
+4. `Berichtsmonat`: describes the timeline (example: `August 2024`)  
+   `Geschlecht`: describes the gender (example: `Male`)  
+   `Berufsausbildung`: describes the highest education degree (example: `Akademische Ausbildung`)  
+   `Bestand Arbeitslose`: dictates how many unemployments (example: `570`)  
+   publisher does not document its column.  
+5. The dataset is provided by the Bundesagentur für Arbeit.  
 - Title: Datenbanken Arbeitslosenstatistik    
 - Author: Bundesagentur für Arbeit
 - Source: https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Datenbanken/Datenbanken-AST-Nav.html 
@@ -32,8 +35,10 @@ Parameter used:
 The data may be used, stored, reproduced and redistributed
 subject to the published terms of use. The source must be
 acknowledged. Changes or own calculations must be clearly
-identified.  
-6. the data does not contain personal data.  
+identified.   
+
+6. the data does not contain personal data.
+
 7.   
    F1    - ~ - the data does not have a DOI 
    F2    - ✓ - the BA provides title, description, publisher, dates, keywords  
