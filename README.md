@@ -7,7 +7,9 @@ This repository is created by:\
   
 | Labs   | Links   |
 | ------ | -----   |
-| 01     | <https://github.com/breuert/data-integration/blob/main/labs/open_source_software_and_open_data.md> |\
+| 01     | <https://github.com/breuert/data-integration/blob/main/labs/open_source_software_and_open_data.md> |
+| 02     | <https://github.com/breuert/data-integration/blob/main/labs/command_line_interface.md>             |
+| 03     | <https://github.com/breuert/data-integration/blob/main/labs/version_control_software.md>           |
 \
 ## License
 
